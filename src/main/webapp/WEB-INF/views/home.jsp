@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-Today is Great
+Today is Great Sharath
 			</h1>
 		
 			<div>
