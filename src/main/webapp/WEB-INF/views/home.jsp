@@ -7,11 +7,11 @@
 <div class="container-fluid main">
 	<div class="row-fluid">
 		<div class="span10 offset1">
-		    <h5> Happy New Year 2020 </h5>	
-			<h4> Happy New Year 2020 </h4>
-			<h3> Happy New Year 2020 </h3>
-			<h2> Happy New Year 2020 </h2>
-			<h1> Happy New Year 2020 </h1>
+		    <h5> welcome New Year 2020 </h5>	
+			<h4> welcome New Year 2020 </h4>
+			<h3> welcome New Year 2020 </h3>
+			<h2> welcome New Year 2020 </h2>
+			<h1> welcome New Year 2020 </h1>
 			<h2> Happy New Year 2020 </h2>
 			<h3> Happy New Year 2020 </h3>
 			<h4> Happy New Year 2020 </h4>
