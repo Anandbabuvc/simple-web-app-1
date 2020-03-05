@@ -16,7 +16,7 @@
 			<h3> Happy New Year 2020 </h3>
 			<h4> Happy New Year 2020 </h4>
 			<h5> Happy New Year 2020 </h5>
-			<h2> Raghukumar J </h2>
+			<h2> Guddi Raghukumar J </h2>
 			<div>
 				<p class="well">
 					<security:authorize access="hasRole('ROLE_USER')">
